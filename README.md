@@ -33,7 +33,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  ## Etapa 3.Diseño de la solución
 Diagrama de la clase
 
-![]()
+![](https://github.com/EduardoManilla2/T3A2---Ejercicio-02/blob/main/T3A2.png)
 
 ## Etapa 4. Desarrollo de la solución
 
