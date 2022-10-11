@@ -37,4 +37,4 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  
  ## Etapa 3.Diseño de la solución
 Diagrama de la clase
-T3A2_page-0001.jpg
+
