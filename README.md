@@ -6,39 +6,34 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 ## Etapa 2. Especificaciones
 
 1.-Entrada:
-  -Usuario: Nombre, apellidos
-  -Dias de la semana: Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Dominingo
-  -Hora: Hora inicial, Hora final.
-
+  -opcional: datos del usuario (Nombre, apellidos. etc)
+  -Variantes String: diaInicio, diaFinal
+  -Variantes int: HoraInicio, HoraFinal
+ 
 2.-Proceso:
-  -Calcular los dias transcurridos.
-  -Sumar las horas trascuridas entre la hora de entrada y hora de salida 
 
+  -Diferencia de horas del dias porterior menos el dia anterior
+  
 3.-Salida:
-  -Resumen de las horas transcurridas junto con los dias de inicio y final
   
  ~~~
  +-----------------------------------------------------------------------------+
- Nombre del usuario: Eduardo Perez Manilla
-  Introduzca el día y hora inicial.
+                Diferencia de horas entre dos lapsos de tiempo
+ +-----------------------------------------------------------------------------+
+ Nombre del usuario: Eduardo Perez Manilla 
  
- -Día: lunes
- -Hora: 10 
+ -Día inicial: lunes        Hora inicial: 08:00 hrs
+ -Dia final: martes         Hora fin:     10:00 hrs     
  +-----------------------------------------------------------------------------+
-  Introduzca el día y hora final.
-  
- -Día: miércoles
- -Hora: 16
- +-----------------------------------------------------------------------------+
- Resultado de las horas trasncurridas: 
- Entre las 10 hrs del lunes y las 16 hrs del miércoles hay 54 horas.
+  Han transcurrido # horas desde el dia martes al dia jueves en las 
+  horas indicadas
  +-----------------------------------------------------------------------------+
  ~~~
  
  ## Etapa 3.Diseño de la solución
 Diagrama de la clase
 
-![](https://github.com/EduardoManilla2/T3A2---Ejercicio-02/blob/main/T3A2_page-0001.jpg)
+![]()
 
 ## Etapa 4. Desarrollo de la solución
 
