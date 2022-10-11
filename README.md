@@ -5,14 +5,15 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 
 ## Etapa 2. Especificaciones
 
-1.-Entrada:
-  -opcional: datos del usuario (Nombre, apellidos. etc)
-  -Variantes String: diaInicio, diaFinal
-  -Variantes int: HoraInicio, HoraFinal
- 
-2.-Proceso:
+1.Entrada:
+  *opcional: datos del usuario (Nombre, apellidos. etc)
+  
+* Variantes string:diaInicio, diaFinal
 
-  -Diferencia de horas del dias porterior menos el dia anterior
+*Variantes int: HoraInicio, HoraFinal
+ 
+2.Proceso:
+- Diferencia de horas del dias porterior menos el dia anterior
   
 3.-Salida:
   
