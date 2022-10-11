@@ -6,6 +6,7 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 ## Etapa 2. Especificaciones
 
 1.-Entrada:
+  -Usuario: Nombre, apellidos
   -Dias de la semana: Lunes, Martes, Miercoles, Jueves, Viernes, Sabado, Dominingo
   -Hora: Hora inicial, Hora final.
 
