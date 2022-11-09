@@ -21,8 +21,6 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
  +-----------------------------------------------------------------------------+
                 Diferencia de horas entre dos lapsos de tiempo
  +-----------------------------------------------------------------------------+
- Nombre del usuario: Eduardo Perez Manilla 
- 
  -Día inicial: lunes        Hora inicial: 08:00 hrs
  -Dia final: martes         Hora fin:     10:00 hrs     
  +-----------------------------------------------------------------------------+
